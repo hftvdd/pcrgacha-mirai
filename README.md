@@ -1,7 +1,7 @@
 # mirai--
 一个可以在群内触发并发送抽奖结果的插件  
 使用方法：
->下载“jar+resource.rar”，解压后把全部文件都放在console的plugins文件夹下
+>下载“jar+resource.rar”，解压后把全部文件都放在console的plugins文件夹下  
 >启动mirai-console，在群内输入“十连抽卡”即可。
 
 后续可能会继续加入别的功能，如限制刷屏、限制群组  
